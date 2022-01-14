@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "name": "Mir Labib Hossain",
+      "email": "labib@g.com",
+      "password": "34444",
+      "id": 1
+    },
+    {
+      "name": "Mir Fayek Hossain",
+      "email": "fayek@g.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Apon ullah",
+      "email": "apon@y.com",
+      "password": "22222",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
